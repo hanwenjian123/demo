@@ -47,6 +47,7 @@ public class User implements Serializable{
                 ", uname='" + uname + '\'' +
                 ", upwd='" + upwd + '\'' +
                 '}';
+
     }
 
     public User(int id, String uname, String upwd) {
