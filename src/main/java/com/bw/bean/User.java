@@ -16,6 +16,7 @@ public class User implements Serializable{
     private String uname;
     private String upwd;
 
+
     public int getId() {
         return id;
     }
