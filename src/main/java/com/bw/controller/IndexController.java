@@ -37,7 +37,7 @@ public class IndexController {
 
     @RequestMapping("tai")
     public String tai() {
-        System.out.println("ddd");
+        System.out.println("dddd");
         return "login";
     }
 }

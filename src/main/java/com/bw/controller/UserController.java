@@ -21,6 +21,7 @@ public class UserController {
         for (User user1 : user) {
             System.out.println(user1);
         }
+
         return user;
     }
     @RequestMapping("/")
